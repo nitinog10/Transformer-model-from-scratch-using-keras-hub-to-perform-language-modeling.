@@ -70,12 +70,6 @@ This project is designed to demonstrate:
 
 ---
 
-## 📄 License
-
-Add your license here (e.g., MIT).
-
----
-
 ## 🙌 Acknowledgements
 
 - [keras-hub](https://keras.io/keras_hub/)
